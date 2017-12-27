@@ -1,0 +1,74 @@
+Protel Design System Design Rule Check
+PCB File : D:\Desktop\Schule\Diplomarbeit\V0_00_00\Hardware\Altium\ARM_EURO_Platine_V21_OK\ARM_EURO_Platine.PcbDoc
+Date     : 07.12.2017
+Time     : 20:16:32
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.4mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.7mm) (Max=0.7mm) (Preferred=0.7mm) ((InNet('NetL1_1') AND InNet('NetL2_1') AND InNet('NetR5_1') AND InNet('NetR3_1')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) ((InNet('GND') AND InNet('NetU2_9')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) ((InNet('+3.3V') AND InNet('+5V') AND InNet('+12V') AND InNet('V_USB') AND InNet('NetV1_1') AND InNet('NetV10_1') AND InNet('NetV9_2') AND InNet('NetC2_1')))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.11mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (22.632mm,12.686mm)(22.632mm,14.686mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (53.704mm,12.686mm)(53.704mm,14.686mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (12.7mm,12.7mm)(12.7mm,15.24mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (12.7mm,12.7mm)(15.24mm,12.7mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (194.564mm,226.314mm)(194.564mm,228.854mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (192.024mm,12.7mm)(194.564mm,12.7mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (194.564mm,12.7mm)(194.564mm,15.24mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (12.7mm,12.7mm)(15.24mm,12.7mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (12.7mm,12.7mm)(12.7mm,15.24mm)  Bottom Overlay
+Rule Violations :9
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Rule
+Rule Violations :0
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:13

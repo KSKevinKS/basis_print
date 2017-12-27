@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Desktop\Schule\Diplomarbeit\V0_00_00\Hardware\Altium\ARM_EURO_Platine_V21_OK\ARM_EURO_Platine.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=arm_euro_platine-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=arm_euro_platine-squareholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=arm_euro_platine-slotholes.txt|LayerPairs=gtl,gbl
